@@ -86,7 +86,8 @@ print("\nPredicted Result:", y_prednew)
 
 ## Output:
 
-<img width="769" height="421" alt="image" src="https://github.com/user-attachments/assets/c2c30732-a32e-4bb1-a69e-3c7ffe65ba8e" />
+<img width="721" height="343" alt="image" src="https://github.com/user-attachments/assets/9e64df06-d2db-4e5f-b355-45b99e555e79" />
+
 
 
 
